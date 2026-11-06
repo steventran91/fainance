@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
+*.egg-info/
+.DS_Store
+.vscode/
+
+# Private notes (not for the public repo)
+financial-ai-intelligence-platform-spec.md
+how-i-like-to-learn.md
